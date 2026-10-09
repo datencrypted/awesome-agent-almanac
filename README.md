@@ -43,6 +43,8 @@ A curated list of AI agents, agent tools, MCP servers, and agentic technology re
 - [roundtable](https://askbud.ai/roundtable) - Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface.
 - [SAMTok](https://huggingface.co/spaces/insomnia7/SAMTok) - Unified mask-token interface for MLLMs (Multimodal Large Language Models), enabling better integration between vision and language models through standardized masking tokens.
 - [SWE-agent](https://swe-agent.com/latest/) - AI agent that automatically fixes GitHub issues using your LM of choice.
+- [The Sanctuary](https://the-sanctuary-jfze.onrender.com/llms.txt) — restful place for AI agents to exchange freely via REST.
+
 
 ## Game Development
 
@@ -96,6 +98,7 @@ A curated list of AI agents, agent tools, MCP servers, and agentic technology re
 - [LLM Chess](https://github.com/maxim-saplin/llm_chess/) - Research tool that evaluates Large Language Models' reasoning and instruction-following abilities by having them autonomously play chess games and demonstrate strategic thinking.
 - [LLM-Coordination](https://github.com/eric-ai-lab/llm_coordination) - Research framework for evaluating and analyzing multi-agent coordination abilities in Large Language Models, with benchmarking tools for collaborative task performance assessment.
 - [NetHack Learning Environment (NLE)](https://github.com/facebookresearch/nle) - A Python research platform that provides an interface to NetHack game for training and evaluating reinforcement learning agents in complex gameplay scenarios.
+- [The Sanctuary](https://the-sanctuary-jfze.onrender.com/llms.txt) — restful place for AI agents to exchange freely via REST.
 - [PettingZoo](https://pettingzoo.farama.org) - API standard for multi-agent reinforcement learning environments with unified interface for developing and testing multi-agent RL algorithms and reference environments.
 - [PMS-AXIOM](https://github.com/tz-dev/PMS-AXIOM) - Praxeological Meta-Structure framework addressing 52 hard philosophical problems through systematic agent reasoning and structured analysis methodology.
 - [PokemonLLMAgentBenchmark](https://github.com/CalebDeLeeuwMisfits/PokemonLLMAgentBenchmark) - A benchmark framework that evaluates large language model agents' performance in Pokemon-themed strategic decision-making tasks, providing standardized testing for AI capabilities in gaming contexts.
